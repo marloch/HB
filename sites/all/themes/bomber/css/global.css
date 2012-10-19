@@ -1,0 +1,44 @@
+/* This file will hold the main styles for your website. */
+
+/* styles for Recipe content type */
+body.node-type-recipe div.field-name-field-image{
+	float:left;
+}
+
+body.node-type-recipe div.time-yield-wrapper{
+	float:left;
+	margin-left: 20px;
+	border: 1px solid #777;
+	padding: 10px;
+}
+
+body.node-type-recipe div.field-name-field-ingredients{
+	clear:left;
+}
+
+ul.action-links {
+  overflow: hidden;
+}
+
+ul.action-links li a {
+  float: left;
+  display: block;
+  padding: 3px 5px;
+  border: 1px solid #CCC;
+  background: #DDD;
+  margin-right: 10px;
+}
+
+ul.action-links li a:hover {
+  background: #EEE;
+}
+
+body {
+    background: #AAD5FF   
+}
+
+/*Sponsor css*/
+sponsor.field {
+    float: center;
+    background-color: #EEE;
+}
