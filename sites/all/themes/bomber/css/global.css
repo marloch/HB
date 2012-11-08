@@ -38,7 +38,8 @@ body {
 }
 
 /*Sponsor css*/
-sponsor.field {
-    float: center;
-    background-color: #EEE;
+#panel-sponsor.panel-pane {
+    background-color: #777;
+    padding: 10px;
+    border:1px solid #777;
 }
